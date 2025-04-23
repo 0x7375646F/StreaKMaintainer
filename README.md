@@ -31,6 +31,7 @@ go build -o thmstreak
 
 ![image](https://github.com/user-attachments/assets/0afd3b0c-68dd-4043-830b-e5fde1aa957f)
 
+### Remember your cookie will expire after certain days you must renew and every login with new device will change the cookie so beaware. Although you will get notification if cookie is expired in discord webhook.
 ## This content is intended solely for educational purposes, to provide information and promote learning in a safe, responsible, and ethical manner.
 
 # ⚠️ Keep your sid safe. It grants access to your THM account.
