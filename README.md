@@ -31,5 +31,6 @@ go build -o thmstreak
 
 ![image](https://github.com/user-attachments/assets/0afd3b0c-68dd-4043-830b-e5fde1aa957f)
 
+## This content is intended solely for educational purposes, to provide information and promote learning in a safe, responsible, and ethical manner.
 
 # ⚠️ Keep your sid safe. It grants access to your THM account.
